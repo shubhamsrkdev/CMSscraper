@@ -4,8 +4,6 @@ This is a simple scraper to download uploaded content on CMS website.
 Please install the following over your Python 3 and pip installation:
 
 ```
-pip install xlwt
-pip install wget
 pip install requests
 pip install webbot
 pip install beautifulsoup4
