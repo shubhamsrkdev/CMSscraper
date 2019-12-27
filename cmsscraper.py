@@ -11,10 +11,10 @@ web.go_to(url)
 
 web.click(text="Google") 
 
-web.type('f20160184@hyderabad.bits-pilani.ac.in' , id='identifierId')
+web.type('ENTER YOUR EMAIL HERE' , id='identifierId')
 web.click(text="Next") 
 time.sleep(2)
-web.type('valuesrk18#', classname="Xb9hP")
+web.type('TYPE YOUR PASSWORD HERE', classname="Xb9hP")
 web.click(text="Next") 
 time.sleep(2)
 web.go_to('https://td.bits-hyderabad.ac.in/moodle/my/')
