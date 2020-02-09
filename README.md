@@ -21,4 +21,4 @@ Functionality present :
 1. Can download .pdf, .docx, .ppt and .xlsx files
 
 Functionality needs to be added :
-1. Downloading folders and other file types if uploaded
+1. Downloading folders and other file types if uploaded.
